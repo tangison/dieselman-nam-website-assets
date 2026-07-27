@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" fill="none">
+  <title>Rail and alignment technical divider</title>
+  <path d="M0 39C173 39 257 70 410 70C573 70 654 24 820 24C967 24 1051 52 1200 52" stroke="currentColor" stroke-width="3"/>
+  <path d="M0 78C173 78 257 109 410 109C573 109 654 63 820 63C967 63 1051 91 1200 91" stroke="currentColor" stroke-width="3"/>
+  <path d="M45 39v39M105 42v39M165 50v39M225 60v39M285 68v39M345 70v39M405 70v39M465 62v39M525 49v39M585 36v39M645 25v39M705 24v39M765 24v39M825 24v39M885 29v39M945 37v39M1005 45v39M1065 51v39M1125 52v39M1185 52v39" stroke="currentColor" stroke-width="2" opacity=".65"/>
+  <circle cx="410" cy="89" r="7" fill="#E85623"/>
+  <circle cx="820" cy="44" r="7" fill="#E85623"/>
+</svg>
+

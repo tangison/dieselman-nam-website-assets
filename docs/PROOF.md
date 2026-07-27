@@ -1,0 +1,19 @@
+# PROOF
+
+| Phase | Action | Target | Command or method | Result | Evidence path or URL | Timestamp | Status |
+|---|---|---|---|---|---|---|---|
+| Discovery | Reviewed supplied business material | 13 supplied screenshots | Visual inspection and public-source cross-check | Services, identity, contact details, and asset gaps identified | `assets/source/` | 2026-07-27T23:15:17+02:00 | Passed |
+| Logo | Converted authentic raster logo to editable vector paths | Primary logo | Colour quantisation, path tracing, transparent-background verification | Two transparent SVG variants and raster fallbacks created | `assets/logo/` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Restored client rail frame | Hero asset | Identity-preserving image edit | UI removed, frame expanded, subject retained | `assets/images/full/hero-rail-stephen.png` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Restored diagnostics frame | Service asset | Precise image edit | Player UI removed, scene retained | `assets/images/full/service-diagnostics.png` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Restored undercarriage frame | Service asset | Precise image edit | Player UI removed, machinery retained | `assets/images/full/service-undercarriage.png` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Restored engine frame | Service asset | Precise image edit | Player UI removed, machinery and mechanic retained | `assets/images/full/service-engine.png` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Restored Namib road frame | Banner asset | Precise image edit | Player UI removed, panoramic frame created | `assets/images/full/banner-namib-road.png` | 2026-07-27T23:15:17+02:00 | Passed |
+| Photography | Simplified Stephen portrait | About asset | Identity-preserving background replacement and graphic overlay | Busy background removed, graphite and orange editorial treatment applied | `assets/images/full/about-stephen.png` | 2026-07-27T23:50:23+02:00 | Passed |
+| Photography | Retained Stephen documentary portrait | Secondary About asset | Preserved earlier cleanup as a separate master | Documentary alternative retained | `assets/images/full/about-stephen-documentary.png` | 2026-07-27T23:50:23+02:00 | Passed |
+| Photography | Expanded documentary framing | Five supplied-client scenes | Identity-preserving outpainting from restored client frames | Five wide compositions created for full-bleed website use | `assets/images/full/*-wide.png` | 2026-07-27T23:50:23+02:00 | Passed |
+| Supporting imagery | Created original service visuals | Ten non-documentary support scenes | Purpose-built image generation, full-size visual review | Alignment, ECU, mechanical, fleet, workshop, and texture coverage added | `assets/images/full/support-*.png` | 2026-07-27T23:50:23+02:00 | Passed |
+| Media | Created responsive delivery formats | 22 master images | Lossless masters plus WebP and AVIF conversion | 44 WebP and 22 AVIF derivatives created | `assets/images/webp/`, `assets/images/avif/` | 2026-07-27T23:50:23+02:00 | Passed |
+| Verification | Decoded delivery formats and parsed vectors | 122 pack files | Standard XML parser, ffprobe, ImageMagick identify, zero-byte scan | 4 SVG files parsed; 22 AVIF and 44 WebP files decoded; no zero-byte files | `docs/PROOF.md` | 2026-07-27T23:50:23+02:00 | Passed |
+| Review | Rebuilt and visually inspected asset contact sheet | 22 master images | Labelled 4-column contact sheet and full-sheet inspection | Identity treatment, wide framing, service range, and visual consistency reviewed | `ASSET_PREVIEW.jpg` | 2026-07-27T23:50:23+02:00 | Passed |
+| Documentation | Recorded brand, product, build, content, and asset rules | Handoff documentation | Exact fact ledger and constrained recommendations | Required documents created | `docs/` | 2026-07-27T23:15:17+02:00 | Passed |

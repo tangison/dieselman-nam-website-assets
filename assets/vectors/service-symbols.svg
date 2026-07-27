@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" fill="none">
+  <title>Dieselman Nam service symbols</title>
+  <g stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g id="wheel-alignment" transform="translate(0 0)">
+      <circle cx="64" cy="64" r="31"/>
+      <circle cx="64" cy="64" r="12"/>
+      <path d="M64 33v19M64 76v19M33 64h19M76 64h19"/>
+      <path d="M24 30h22M24 30l9-9M24 30l9 9M104 98H82M104 98l-9-9M104 98l-9 9"/>
+    </g>
+    <g id="diagnostics" transform="translate(128 0)">
+      <rect x="28" y="25" width="72" height="52" rx="5"/>
+      <path d="M40 43h18l7 15 9-25 7 18h10"/>
+      <path d="M52 77v14M76 77v14M43 91h42"/>
+      <path d="M28 62H17v25h16"/>
+    </g>
+    <g id="mechanical-repair" transform="translate(256 0)">
+      <path d="M35 89l23-23"/>
+      <path d="M55 43a22 22 0 0 0 29 28L49 106a10 10 0 0 1-14-14l35-35a22 22 0 0 0 28-29L84 42 71 29 84 15A22 22 0 0 0 55 43Z"/>
+    </g>
+    <g id="ecu-programming" transform="translate(384 0)">
+      <rect x="34" y="33" width="60" height="60" rx="7"/>
+      <path d="M48 48h32v30H48zM64 48v30"/>
+      <path d="M26 43h8M26 57h8M26 71h8M26 85h8M94 43h8M94 57h8M94 71h8M94 85h8"/>
+      <path d="M44 25v8M57 25v8M71 25v8M84 25v8M44 93v8M57 93v8M71 93v8M84 93v8"/>
+    </g>
+  </g>
+</svg>
+
