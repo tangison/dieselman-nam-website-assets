@@ -37,6 +37,8 @@ Avoid generic centred heroes, repeated card grids, glass panels, purple gradient
 
 Use documentary assets as evidence. Use `support-*` generated imagery only for atmosphere and service explanation. Never present supporting imagery as Dieselman staff, vehicles, premises, customers, or completed work. Use AVIF with WebP fallback and declared dimensions.
 
+`assets/images/full/about-stephen.png` is the only approved portrait of Stephen Lee. Use it for all owner-led sections. Do not recover, reference, or recreate any earlier portrait variant from Git history.
+
 ## Required routes
 
 Build `/`, `/services`, three service detail routes, `/work`, `/about`, `/contact`, `/brand`, `/privacy`, `/terms`, `/sitemap`, plus custom 404 and 500 experiences. Complete every route and applicable loading, validation, success, failure, timeout, offline, and empty state. No TODOs, lorem ipsum, dead controls, or placeholder claims.

@@ -26,7 +26,7 @@ Production handoff for a future client demo website. This pack contains authenti
 
 - 6 restored documentary client scenes
 - 5 wider documentary-derived compositions for full-bleed layouts
-- 1 simplified editorial Stephen portrait, with the documentary portrait retained separately
+- 1 approved high-resolution Stephen Lee portrait supplied by the client
 - 10 original supporting truck, trailer, alignment, diagnostics, workshop, and texture visuals
 - Responsive WebP and AVIF delivery files for every master
 

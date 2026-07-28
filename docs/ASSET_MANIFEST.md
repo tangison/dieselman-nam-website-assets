@@ -19,8 +19,7 @@
 | `service-undercarriage.png` | Mechanical repairs | Real client workshop-video frame | Player UI removal, clarity, modest framing extension |
 | `service-engine.png` | Diesel repair | Real client engine-video frame | Player UI removal, clarity, modest framing extension |
 | `banner-namib-road.png` | Wide transport banner | Real client road-video frame | Player UI removal, clarity, panoramic extension |
-| `about-stephen.png` | About portrait | Real supplied portrait screenshot | Background removed, flat graphite field and restrained orange technical overlay added, identity preserved |
-| `about-stephen-documentary.png` | Documentary portrait | Real supplied portrait screenshot | Carousel-arrow removal, restrained cleanup, identity preservation |
+| `about-stephen.png` | Only approved About portrait | Correct portrait supplied by the client on 2026-07-28 | Deterministic 2× upscale to 2610×3072 with restrained sharpening; no generative facial, clothing, logo, background, colour, crop, or identity changes |
 
 ## Wider documentary-derived compositions
 
@@ -48,6 +47,8 @@
 | `support-suspension-detail.png` | Suspension and axle detail |
 
 Every master has responsive WebP files at up to 1600px and 768px. Every master also has an AVIF delivery file at up to 1600px.
+
+The abandoned Stephen portrait variants were removed from all master and delivery directories. Do not recover or use them from Git history.
 
 ## Generated-image disclosure
 

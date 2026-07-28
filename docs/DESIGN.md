@@ -42,8 +42,7 @@ The design combines two real visual systems already present in the business:
 | `service-undercarriage-wide` | Wide workshop or service-process field |
 | `service-engine` | Diesel repair route |
 | `service-engine-wide` | Wide diesel repair field |
-| `about-stephen` | About page and owner-led trust section |
-| `about-stephen-documentary` | Secondary documentary portrait |
+| `about-stephen` | The only approved Stephen Lee portrait for the About page and owner-led trust section |
 | `support-wheel-alignment-sensors` | Explain wheel-alignment measurement |
 | `support-mobile-alignment-yard` | Mobile-service atmosphere |
 | `support-trailer-axle-alignment` | Trailer-alignment detail |

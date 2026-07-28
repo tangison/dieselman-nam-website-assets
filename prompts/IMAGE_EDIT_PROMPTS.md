@@ -40,11 +40,11 @@ Create a 21:9 transport banner from the real truck-on-road frame. Remove all pla
 ## Stephen portrait
 
 ```text
-Use case: identity-preserve.
-Create a vertical 4:5 About portrait from the real supplied image of Stephen. Remove the entire workshop background and replace it with a flat deep-graphite field. Add only a restrained translucent diesel-orange diagonal technical overlay behind the subject. Preserve Stephen’s exact face, age, hair, eyes, expression, body, and clothing. Do not beautify, reshape, heavily retouch, add people, text, logos, or a fake office.
+Use the approved source `assets/source/stephen-lee-correct-portrait.jpg`.
+Use `assets/images/full/about-stephen.png` as the only website portrait of Stephen Lee.
+It is a deterministic 2× upscale of the correct supplied portrait.
+Do not regenerate, replace, restyle, crop, recolour, beautify, retouch, or alter his face, clothing, embroidered logo patch, pose, or orange-and-graphite background.
 ```
-
-The earlier documentary-background edit is retained as `about-stephen-documentary.png`.
 
 ## Wider documentary compositions
 
